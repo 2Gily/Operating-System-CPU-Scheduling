@@ -4,4 +4,5 @@
   - FCFS<br>
   - Priority Queue<br>
   - Round Robin<br>
-  2019.03 - 2019.06
+  
+  <div align = "center"><strong>2019.03 - 2019.06</strong></div>
